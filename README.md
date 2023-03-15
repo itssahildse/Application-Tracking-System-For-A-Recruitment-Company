@@ -1,4 +1,4 @@
-# Application-Tracking-System-For-A-Recruitment-Company
+# Application Tracking System For A Recruitment Company
 
 
 This is the main read me file which contains all the information about the porject that I have done for creating and deploying an Application Tracking System for a Recruitment Company from scratch. 
